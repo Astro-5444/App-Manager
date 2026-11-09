@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=App Manager
+Comment=Launch, edit, hide and uninstall desktop applications
+Exec=app-manager
+Icon=app-manager
+Terminal=false
+Categories=System;
+Keywords=apps;applications;launcher;uninstall;manage;
+StartupNotify=true
+StartupWMClass=AppManager
